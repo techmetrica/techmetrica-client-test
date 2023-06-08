@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.34bab910.css",
-    "main.js": "/static/js/main.fe95b176.js",
-    "static/media/Drone_Minimal.png": "/static/media/Drone_Minimal.60d3b5e39cafa273aa98.png",
-    "static/media/Robot_Colorful.png": "/static/media/Robot_Colorful.4dfb25916ced4fa40590.png",
-    "static/media/Sleep.png": "/static/media/Sleep.1e87aa87720346feebde.png",
-    "static/media/PlayGamesButton.svg": "/static/media/PlayGamesButton.45a6130070c56700aed97094e966f86b.svg",
-    "index.html": "/index.html",
-    "main.34bab910.css.map": "/static/css/main.34bab910.css.map",
-    "main.fe95b176.js.map": "/static/js/main.fe95b176.js.map"
+    "main.css": "/techmetrica-client-test/static/css/main.34bab910.css",
+    "main.js": "/techmetrica-client-test/static/js/main.e5b23720.js",
+    "static/media/Drone_Minimal.png": "/techmetrica-client-test/static/media/Drone_Minimal.60d3b5e39cafa273aa98.png",
+    "static/media/Robot_Colorful.png": "/techmetrica-client-test/static/media/Robot_Colorful.4dfb25916ced4fa40590.png",
+    "static/media/Sleep.png": "/techmetrica-client-test/static/media/Sleep.1e87aa87720346feebde.png",
+    "static/media/PlayGamesButton.svg": "/techmetrica-client-test/static/media/PlayGamesButton.45a6130070c56700aed97094e966f86b.svg",
+    "index.html": "/techmetrica-client-test/index.html",
+    "main.34bab910.css.map": "/techmetrica-client-test/static/css/main.34bab910.css.map",
+    "main.e5b23720.js.map": "/techmetrica-client-test/static/js/main.e5b23720.js.map"
   },
   "entrypoints": [
     "static/css/main.34bab910.css",
-    "static/js/main.fe95b176.js"
+    "static/js/main.e5b23720.js"
   ]
 }
