@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.34bab910.css",
-    "main.js": "/static/js/main.fe95b176.js",
-    "static/media/Drone_Minimal.png": "/static/media/Drone_Minimal.60d3b5e39cafa273aa98.png",
-    "static/media/Robot_Colorful.png": "/static/media/Robot_Colorful.4dfb25916ced4fa40590.png",
-    "static/media/Sleep.png": "/static/media/Sleep.1e87aa87720346feebde.png",
-    "static/media/PlayGamesButton.svg": "/static/media/PlayGamesButton.45a6130070c56700aed97094e966f86b.svg",
-    "index.html": "/index.html",
-    "main.34bab910.css.map": "/static/css/main.34bab910.css.map",
-    "main.fe95b176.js.map": "/static/js/main.fe95b176.js.map"
+    "main.css": "/your-repo-name/static/css/main.34bab910.css",
+    "main.js": "/your-repo-name/static/js/main.509fa5e5.js",
+    "static/media/Drone_Minimal.png": "/your-repo-name/static/media/Drone_Minimal.60d3b5e39cafa273aa98.png",
+    "static/media/Robot_Colorful.png": "/your-repo-name/static/media/Robot_Colorful.4dfb25916ced4fa40590.png",
+    "static/media/Sleep.png": "/your-repo-name/static/media/Sleep.1e87aa87720346feebde.png",
+    "static/media/PlayGamesButton.svg": "/your-repo-name/static/media/PlayGamesButton.45a6130070c56700aed97094e966f86b.svg",
+    "index.html": "/your-repo-name/index.html",
+    "main.34bab910.css.map": "/your-repo-name/static/css/main.34bab910.css.map",
+    "main.509fa5e5.js.map": "/your-repo-name/static/js/main.509fa5e5.js.map"
   },
   "entrypoints": [
     "static/css/main.34bab910.css",
-    "static/js/main.fe95b176.js"
+    "static/js/main.509fa5e5.js"
   ]
 }
